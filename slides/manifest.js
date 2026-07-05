@@ -29,6 +29,5 @@ window.SLIDES = [
   "23-impacto.html",
   "24-por-que-invertir.html",
   "25-el-pedido.html",
-  "26-cierre.html",
   "27-video.html",
 ];
