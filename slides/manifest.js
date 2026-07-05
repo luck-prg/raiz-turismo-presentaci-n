@@ -1,0 +1,34 @@
+// Orden de las diapositivas de la presentación.
+// Para AGREGAR una diapositiva: creá el archivo en slides/ y sumá su nombre acá,
+// en la posición donde quieras que aparezca.
+// Para REORDENAR: cambiá el orden de las líneas.
+// Para QUITAR temporalmente: comentá la línea con //.
+window.SLIDES = [
+  "01-portada.html",
+  "02-equipo.html",
+  "03-problema.html",
+  "04-oportunidad.html",
+  "05-comarca.html",
+  "06-divisora.html",
+  "07-que-es-raiz.html",
+  "08-fidelizacion.html",
+  "09-ecosistema.html",
+  "10-como-ganamos.html",
+  "11-diferenciadores.html",
+  "12-competencia.html",
+  "13-capital-funnel.html",
+  "14-plan-captacion.html",
+  "15-participacion-mercado.html",
+  "16-mix-actividades.html",
+  "17-la-inversion.html",
+  "18-en-que-se-gasta.html",
+  "19-ingresos.html",
+  "20-el-retorno.html",
+  "21-flujo-fondos.html",
+  "22-riesgo.html",
+  "23-impacto.html",
+  "24-por-que-invertir.html",
+  "25-el-pedido.html",
+  "26-cierre.html",
+  "27-video.html",
+];
